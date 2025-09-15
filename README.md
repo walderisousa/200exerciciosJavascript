@@ -1,3 +1,5 @@
+LISTA DE EXERCICIOS
+
 Exercício 1: Declare duas variáveis chamadas "idade" e "peso", atribua valores a elas e imprima os valores na console.
 
 Exercício 2: Declare uma constante chamada "PI", atribua o valor de Pi a ela e imprima o valor na console.
