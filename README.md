@@ -37,6 +37,7 @@
 - [Exercício 35](exercicio35.js): Usando um laço for, imprima os primeiros 10 números triangulares (n*(n+1)/2).
 - [Exercício 36](exercicio36.js): Usando um laço for, imprima todos os números perfeitos de 1 a 100.
 - [Exercício 37](exercicio37.js): Usando um laço while, imprima a soma dos quadrados dos primeiros 10 números naturais.
+- [Exercício 38](exercicio38.js): Usando um laço do-while, imprima a soma dos cubos dos primeiros 10 números naturais.
 - [Exercício 39](exercicio39.js): Usando um laço for, crie um programa que calcule o fatorial de um número.
 - [Exercício 40](exercicio40.js): Usando um laço while, crie um programa que inverta uma string.
 - [Exercício 41](exercicio41.js): Usando um laço do-while, crie um programa que transforme um número decimal em binário.
@@ -54,3 +55,30 @@
 - [Exercício 53](exercicio53.js): Escreva uma função que verifique se um número é primo.
 - [Exercício 54](exercicio54.js): Escreva uma função que ordene um array de números em ordem decrescente.
 - [Exercício 55](exercicio55.js): Escreva uma função que retorne o menor número em um array de números.
+- [Exercício 56](exercicio56.js): Escreva uma função que retorne o maior número em um array de números.
+- [Exercício 57](exercicio57.js): Escreva uma função que retorne a soma de todos os números ímpares em um array de números.
+- [Exercício 58](exercicio58.js): Escreva uma função que retorne a soma de todos os números pares em um array de números.
+- [Exercício 59](exercicio59.js): Escreva uma função que receba um array de números e retorne um novo array com todos os números duplicados.
+- [Exercício 60](exercicio60.js): Escreva uma função que receba um array de números e retorne um novo array com todos os números ao quadrado.
+- [Exercício 61](exercicio61.js): Escreva uma função que receba um array de números e retorne um novo array com a raiz quadrada de todos os números.
+- [Exercício 62](exercicio62.js): Escreva uma função que receba um número e retorne uma string repetida aquele número de vezes.
+- [Exercício 63](exercicio63.js): Escreva uma função que receba um número e retorne um array com todos os números primos até aquele número.
+- [Exercício 64](exercicio64.js): Escreva uma função que receba uma string e retorne o número de palavras na string.
+- [Exercício 65](exercicio65.js): Escreva uma função que aceite um array de números e uma função de callback e retorne a soma de todos os números do array após a aplicação da função de callback.
+- [Exercício 66](exercicio66.js): Escreva uma função que aceite uma função de callback que retorne verdadeiro ou falso e um array, e retorne um novo array que contém apenas os elementos para os quais a função de callback retornou verdadeiro.
+- [Exercício 67](exercicio67.js): Escreva uma função que aceite uma função de callback e um array de arrays, e retorne um novo array que contém os resultados de aplicar a função de callback a cada array.
+- [Exercício 68](exercicio68.js): Escreva uma função de alta ordem que aceite um array de números e uma função de callback, e retorne um novo array que contém apenas os números do array original que satisfazem a condição da função de callback.
+- [Exercício 69](exercicio69.js): Escreva uma função que aceite um número e uma função de callback, e execute a função de callback o número de vezes especificado.
+- [Exercício 70](exercicio70.js): Escreva uma função de alta ordem que aceite um array de funções de callback e um valor, e retorne um array de resultados de aplicar cada função de callback ao valor.
+- [Exercício 71](exercicio71.js): Escreva uma função que aceite uma função de callback e um número, e execute a função de callback após um certo número de milissegundos especificados pelo número.
+- [Exercício 72](exercicio72.js): Escreva uma função que aceite um número, um array de funções de callback e um valor inicial, e retorne o resultado final após a aplicação de todas as funções de callback no valor inicial, o número de vezes especificado.
+- [Exercício 73](exercicio73.js): Escreva uma função de alta ordem que aceite um número, um array de funções de callback e um valor inicial, e retorne o resultado final após a aplicação de todas as funções de callback no valor inicial, a cada "n" milissegundos.
+- [Exercício 74](exercicio74.js): Escreva uma função de alta ordem que aceite uma função de callback e um array, e retorne um novo array que contém os resultados de aplicar a função de callback a cada elemento do array, sem alterar o array original.
+- [Exercício 75](exercicio75.js): Escreva uma função de alta ordem que aceite um array de funções de callback e um valor, e retorne um novo array que contém os resultados de aplicar a função de callback ao valor, na ordem inversa.
+- [Exercício 76](exercicio76.js): Crie um objeto vazio e adicione três propriedades a ele, cada uma com diferentes tipos de valores.
+- [Exercício 77](exercicio77.js): Crie um objeto que represente um livro, com propriedades para o título, autor e número de páginas. Em seguida, adicione um método ao objeto que imprima uma descrição do livro.
+- [Exercício 78](exercicio78.js): Crie um objeto "cachorro" com propriedades para raça, nome e idade. Adicione um método que retorne a idade do cachorro em anos humanos (idade do cachorro * 7).
+- [Exercício 79](exercicio79.js): Crie um objeto que represente um carro, com propriedades para a marca, modelo, ano e velocidade atual, e os seguintes métodos: acelerar, frear e obter velocidade atual.
+- [Exercício 80](exercicio80.js): Crie um objeto que represente um estudante, com propriedades para o nome, notas de várias matérias e um método para calcular a média das notas.
+
+
